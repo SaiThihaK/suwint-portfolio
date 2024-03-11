@@ -8,7 +8,7 @@ const Home = (props: Props) => {
     <div className="my-16 flex  gap-6 w-full justify-between items-end">
       <aside className="flex flex-col gap-2 w-full  justify-center">
         <div className="text-2xl font-semibold">Hey, nice to meet you!</div>
-        <div className="text-[128px] font-bold">I'm Su</div>
+        <div className="text-[128px] font-bold">I&apos;m Su</div>
         <div className="flex flex-col text-2xl">
           <div>
             <span
