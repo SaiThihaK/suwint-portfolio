@@ -28,8 +28,10 @@ const Home = (props: Props) => {
           create bolder online experiences and ship high-quality polished
           products.
         </p>
-        <div className="bg-gradient-to-r flex font-semibold gap-2 hover:gap-4 transition-all ease-in-out from-[#E92677] text-transparent to-[#B31AA4] bg-clip-text">
-          <div className="text-transparent">Get to know me</div>
+        <div className="gap-2 hover:gap-4 flex transition-all ease-in-out">
+          <div className="bg-gradient-to-r font-semibold text-trasparent   from-[#E92677] text-transparent to-[#B31AA4] bg-clip-text">
+            Get to know me
+          </div>
           <ArrowRight color="#B31AA4" />
         </div>
       </aside>
